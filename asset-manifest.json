@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cyber-portfolio/static/css/main.97d6755e.css",
+    "main.js": "/cyber-portfolio/static/js/main.b2e55dac.js",
+    "index.html": "/cyber-portfolio/index.html",
+    "main.97d6755e.css.map": "/cyber-portfolio/static/css/main.97d6755e.css.map",
+    "main.b2e55dac.js.map": "/cyber-portfolio/static/js/main.b2e55dac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d6755e.css",
+    "static/js/main.b2e55dac.js"
+  ]
+}
